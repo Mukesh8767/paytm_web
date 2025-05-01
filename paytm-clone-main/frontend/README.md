@@ -1,8 +1,25 @@
-# React + Vite
+# Simple Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic website built using React, Node.js, Express, and MongoDB.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* [Briefly describe the main purpose of your website].
+* [Mention any other key features].
+
+## Technologies Used
+
+* Frontend: React
+* Backend: Node.js, Express
+* Database: MongoDB
+
+## Installation and Setup
+
+1.  Clone this repository.
+2.  Navigate to the `client` directory and run `npm install` and `npm start`.
+3.  Navigate to the `server` directory and run `npm install` and `npm start`.
+4.  Ensure MongoDB is running.
+
+## Usage
+
+[Briefly explain how to use your website].
